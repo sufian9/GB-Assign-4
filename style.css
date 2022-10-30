@@ -1,0 +1,33 @@
+body{
+    margin:auto;
+    padding: auto;
+   
+}
+.head{
+    background-color: black;
+    color: white;
+}
+h2{
+    margin-top: 100px;
+    color: white;
+}
+.lorem{
+    font-size: 18px;
+    font-style:italic;
+    color: white;
+}
+.color{
+    background-color:rgb(128, 201, 251);
+}
+.ipn{
+    margin-top: 70px;
+
+    
+}
+.TOP{
+    margin-top: 100px;
+    color: white;
+}
+.Khali{
+    margin-top: 50px;
+}
